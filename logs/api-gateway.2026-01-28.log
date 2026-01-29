@@ -1,0 +1,202 @@
+2026-01-28 10:06:00.090 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:11:00.124 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:16:00.129 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:21:00.137 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:26:00.152 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:31:00.167 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:36:00.170 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:41:00.171 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:46:00.179 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:51:00.182 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 10:56:00.184 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:01:00.192 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:06:00.202 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:11:00.210 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:16:00.220 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:21:00.237 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:26:00.248 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:31:00.251 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:36:00.265 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:39:15.432 INFO  [RMI TCP Connection(488)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2026-01-28 11:39:15.464 INFO  [RMI TCP Connection(488)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application API-GATEWAY with eureka with status DOWN
+2026-01-28 11:39:15.466 INFO  [RMI TCP Connection(488)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1769580555465, current=DOWN, previous=UP]
+2026-01-28 11:39:15.468 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090: registering service...
+2026-01-28 11:39:15.546 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090 - registration status: 204
+2026-01-28 11:39:15.615 INFO  [RMI TCP Connection(488)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-01-28 11:39:15.646 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:39:15.972 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-01-28 11:39:15.986 INFO  [RMI TCP Connection(488)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:39:16.222 INFO  [RMI TCP Connection(488)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2026-01-28 11:39:19.250 INFO  [RMI TCP Connection(488)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Unregistering ...
+2026-01-28 11:39:19.485 INFO  [RMI TCP Connection(488)-127.0.0.1] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090 - deregister  status: 200
+2026-01-28 11:39:19.488 INFO  [RMI TCP Connection(488)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2026-01-28 11:41:22.451 INFO  [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-01-28 11:41:22.644 INFO  [main] c.example.demo.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 16644 (C:\Users\mps\Documents\personal\MicroServicesGpt\api-gateway\target\classes started by mps in C:\Users\mps\Documents\personal\MicroServicesGpt\api-gateway)
+2026-01-28 11:41:22.647 INFO  [main] c.example.demo.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2026-01-28 11:41:25.040 INFO  [main] o.s.cloud.context.scope.GenericScope - BeanFactory id=cce9c6aa-46a9-3ca3-889d-12c4a47251be
+2026-01-28 11:41:25.675 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-01-28 11:41:25.711 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:41:25.717 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-01-28 11:41:25.718 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2026-01-28 11:41:26.012 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-01-28 11:41:26.013 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3239 ms
+2026-01-28 11:41:29.752 INFO  [main] o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2026-01-28 11:41:29.885 WARN  [main] o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2026-01-28 11:41:29.902 INFO  [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-01-28 11:41:30.058 INFO  [main] o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2026-01-28 11:41:30.100 INFO  [main] c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2026-01-28 11:41:30.107 INFO  [main] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:41:30.125 INFO  [main] c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2026-01-28 11:41:30.126 INFO  [main] c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2026-01-28 11:41:30.127 INFO  [main] c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2026-01-28 11:41:30.127 INFO  [main] c.netflix.discovery.DiscoveryClient - Application is null : false
+2026-01-28 11:41:30.127 INFO  [main] c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2026-01-28 11:41:30.127 INFO  [main] c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2026-01-28 11:41:30.129 INFO  [main] c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2026-01-28 11:41:30.604 INFO  [main] c.netflix.discovery.DiscoveryClient - The response status is 200
+2026-01-28 11:41:30.608 INFO  [main] c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2026-01-28 11:41:30.612 INFO  [main] c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2026-01-28 11:41:30.616 INFO  [main] c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1769580690615 with initial instances count: 3
+2026-01-28 11:41:30.621 INFO  [main] o.s.c.n.e.s.EurekaServiceRegistry - Registering application API-GATEWAY with eureka with status UP
+2026-01-28 11:41:30.622 INFO  [main] c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1769580690622, current=UP, previous=STARTING]
+2026-01-28 11:41:30.626 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:41:30.627 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090: registering service...
+2026-01-28 11:41:30.679 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path '/'
+2026-01-28 11:41:30.682 INFO  [main] o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9090
+2026-01-28 11:41:30.727 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090 - registration status: 204
+2026-01-28 11:41:31.044 INFO  [main] c.example.demo.ApiGatewayApplication - Started ApiGatewayApplication in 10.663 seconds (process running for 12.904)
+2026-01-28 11:41:31.419 INFO  [RMI TCP Connection(8)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-01-28 11:41:31.420 INFO  [RMI TCP Connection(8)-127.0.0.1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-01-28 11:41:31.423 INFO  [RMI TCP Connection(8)-127.0.0.1] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-01-28 11:46:07.308 INFO  [RMI TCP Connection(15)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2026-01-28 11:46:07.310 INFO  [RMI TCP Connection(15)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application API-GATEWAY with eureka with status DOWN
+2026-01-28 11:46:07.311 INFO  [RMI TCP Connection(15)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1769580967311, current=DOWN, previous=UP]
+2026-01-28 11:46:07.312 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090: registering service...
+2026-01-28 11:46:07.318 INFO  [RMI TCP Connection(15)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-01-28 11:46:07.322 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:46:07.337 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090 - registration status: 204
+2026-01-28 11:46:07.570 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-01-28 11:46:07.572 INFO  [RMI TCP Connection(15)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:46:07.620 INFO  [RMI TCP Connection(15)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2026-01-28 11:46:10.637 INFO  [RMI TCP Connection(15)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Unregistering ...
+2026-01-28 11:46:10.676 INFO  [RMI TCP Connection(15)-127.0.0.1] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090 - deregister  status: 200
+2026-01-28 11:46:10.677 INFO  [RMI TCP Connection(15)-127.0.0.1] c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2026-01-28 11:46:21.102 INFO  [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-01-28 11:46:21.301 INFO  [main] c.example.demo.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 31188 (C:\Users\mps\Documents\personal\MicroServicesGpt\api-gateway\target\classes started by mps in C:\Users\mps\Documents\personal\MicroServicesGpt\api-gateway)
+2026-01-28 11:46:21.306 INFO  [main] c.example.demo.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2026-01-28 11:46:25.439 INFO  [main] o.s.cloud.context.scope.GenericScope - BeanFactory id=cce9c6aa-46a9-3ca3-889d-12c4a47251be
+2026-01-28 11:46:26.425 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 9090 (http)
+2026-01-28 11:46:26.464 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:46:26.469 INFO  [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-01-28 11:46:26.471 INFO  [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.49]
+2026-01-28 11:46:26.747 INFO  [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-01-28 11:46:26.747 INFO  [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5206 ms
+2026-01-28 11:46:32.990 INFO  [main] o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2026-01-28 11:46:33.177 WARN  [main] o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2026-01-28 11:46:33.199 INFO  [main] o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-01-28 11:46:33.441 INFO  [main] o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2026-01-28 11:46:33.506 INFO  [main] c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2026-01-28 11:46:33.517 INFO  [main] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:46:33.540 INFO  [main] c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2026-01-28 11:46:33.541 INFO  [main] c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2026-01-28 11:46:33.541 INFO  [main] c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2026-01-28 11:46:33.542 INFO  [main] c.netflix.discovery.DiscoveryClient - Application is null : false
+2026-01-28 11:46:33.542 INFO  [main] c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2026-01-28 11:46:33.542 INFO  [main] c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2026-01-28 11:46:33.543 INFO  [main] c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2026-01-28 11:46:34.255 INFO  [main] c.netflix.discovery.DiscoveryClient - The response status is 200
+2026-01-28 11:46:34.262 INFO  [main] c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2026-01-28 11:46:34.269 INFO  [main] c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2026-01-28 11:46:34.275 INFO  [main] c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1769580994273 with initial instances count: 1
+2026-01-28 11:46:34.286 INFO  [main] o.s.c.n.e.s.EurekaServiceRegistry - Registering application API-GATEWAY with eureka with status UP
+2026-01-28 11:46:34.287 INFO  [main] c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1769580994286, current=UP, previous=STARTING]
+2026-01-28 11:46:34.291 INFO  [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2026-01-28 11:46:34.291 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090: registering service...
+2026-01-28 11:46:34.366 INFO  [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path '/'
+2026-01-28 11:46:34.371 INFO  [main] o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 9090
+2026-01-28 11:46:34.425 INFO  [DiscoveryClient-InstanceInfoReplicator-%d] c.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/localhost:api-gateway:9090 - registration status: 204
+2026-01-28 11:46:34.883 INFO  [main] c.example.demo.ApiGatewayApplication - Started ApiGatewayApplication in 16.584 seconds (process running for 19.574)
+2026-01-28 11:46:35.472 INFO  [RMI TCP Connection(8)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-01-28 11:46:35.473 INFO  [RMI TCP Connection(8)-127.0.0.1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-01-28 11:46:35.480 INFO  [RMI TCP Connection(8)-127.0.0.1] o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2026-01-28 11:51:33.561 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 11:56:33.577 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:01:33.593 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:06:33.608 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:11:33.622 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:16:33.633 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:21:33.636 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:26:33.642 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:31:33.647 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:36:33.661 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:41:33.662 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:46:33.670 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:51:33.686 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 12:56:33.701 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:01:33.712 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:06:33.721 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:11:33.734 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:16:33.745 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:21:33.761 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:26:33.763 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:31:33.765 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:36:33.768 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:41:33.773 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:46:33.777 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:51:33.791 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 13:56:33.799 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:01:33.803 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:06:33.805 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:11:33.808 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:16:33.813 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:21:33.828 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:26:33.842 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:31:33.858 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:36:33.863 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:41:33.868 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:46:33.873 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:51:33.874 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 14:56:33.875 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:01:33.891 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:06:33.904 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:11:34.014 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:16:34.043 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:21:34.052 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:26:34.055 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:31:34.061 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:36:34.068 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:41:34.073 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:46:34.087 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:51:34.091 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 15:56:34.097 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:01:34.106 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:06:34.111 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:11:34.115 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:16:34.124 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:21:34.130 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:26:34.140 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:31:34.143 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:36:34.150 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:41:34.162 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:46:34.176 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:51:34.189 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 16:56:34.198 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:01:34.205 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:06:34.209 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:11:34.216 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:16:34.230 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:21:34.237 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:43:59.612 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:48:59.614 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:53:59.621 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 17:58:59.635 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:03:59.645 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:08:59.659 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:13:59.667 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:18:59.680 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:23:59.694 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:28:59.701 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:33:59.708 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:38:59.711 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:43:59.720 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-01-28 18:48:59.723 INFO  [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
